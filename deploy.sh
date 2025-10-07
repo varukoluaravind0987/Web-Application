@@ -13,6 +13,6 @@ echo "Cleanup the directory"
 sudo rm -rf /var/www/html/
 
 echo "cloning the repository"
-sudo gir clone https://github.com/varukoluaravind0987/Web-Application.git /var/www/html/
+sudo git clone https://github.com/varukoluaravind0987/Web-Application.git /var/www/html/
 
 echo "Web server successfully deployed"
