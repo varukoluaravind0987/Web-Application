@@ -1,4 +1,4 @@
-!#/bin/bash/
+#!/bin/bash/
 
 echo "updating the server"
 sudo apt update -y
